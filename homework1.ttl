@@ -1,0 +1,22 @@
+@base <http://example.org/>.
+@prefix foat: <http://xmlns.com/foaf/spec/#term_>.
+@prefix p: <http://example_namespace.org/>.
+
+
+
+<#myself>
+  foat:title "Mr lin";
+  foat:firstName "linchuangwei";
+  foat:lastName "lin";
+  foat:mbox <1135614083@qq.com>;
+  foat:homePage  <http://example.org/homepage/>;;
+  foat:img <http://example.org/photo>;;
+  foat:phone "18819473349";
+  foat:knows "xiaoming1", "xiaoming2", "xiaoming3";
+  p:interest_movie "Lord of the Rings", "The Shawshank Redemption";
+  p:interest_food "fish", "potato", "tomato";
+  p:speak_language "Chinese", "English";
+  p:use_language "C", "C++", "Python", "Java";
+  foat:birthday "08.20";
+  foat:age "21".
+
