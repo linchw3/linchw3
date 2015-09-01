@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://xmlns.com/foaf/spec/#"
+         xmlns:ns1="http://example_namespace.org/">
+
+  <rdf:Description rdf:about="http://example.org/#myself">
+    <ns0:term_title>Mr lin</ns0:term_title>
+    <ns0:term_firstName>linchuangwei</ns0:term_firstName>
+    <ns0:term_lastName>lin</ns0:term_lastName>
+    <ns0:term_mbox rdf:resource="http://example.org/1135614083@qq.com"/>
+    <ns0:term_homePage rdf:resource="http://example.org/homepage/"/>
+    <ns0:term_img rdf:resource="http://example.org/photo"/>
+    <ns0:term_phone>18819473349</ns0:term_phone>
+    <ns0:term_knows>xiaoming1</ns0:term_knows>
+    <ns0:term_knows>xiaoming2</ns0:term_knows>
+    <ns0:term_knows>xiaoming3</ns0:term_knows>
+    <ns1:interest_movie>Lord of the Rings</ns1:interest_movie>
+    <ns1:interest_movie>The Shawshank Redemption</ns1:interest_movie>
+    <ns1:interest_food>fish</ns1:interest_food>
+    <ns1:interest_food>potato</ns1:interest_food>
+    <ns1:interest_food>tomato</ns1:interest_food>
+    <ns1:speak_language>Chinese</ns1:speak_language>
+    <ns1:speak_language>English</ns1:speak_language>
+    <ns1:use_language>C</ns1:use_language>
+    <ns1:use_language>C++</ns1:use_language>
+    <ns1:use_language>Python</ns1:use_language>
+    <ns1:use_language>Java</ns1:use_language>
+    <ns0:term_birthday>08.20</ns0:term_birthday>
+    <ns0:term_age>21</ns0:term_age>
+  </rdf:Description>
+
+</rdf:RDF>
